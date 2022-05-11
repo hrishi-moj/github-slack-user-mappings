@@ -2167,6 +2167,8 @@
       "github": "Ravipati89",
       "slack": "U03C5LA0E1Y"
     },
-    { "github": "hrishi-moj", "slack": "slackMemberID" }
+    { "github": "hrishi-moj",
+      "slack": "slackMemberID"
+    }
   ]
 }
